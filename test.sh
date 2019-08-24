@@ -1,6 +1,6 @@
 #!/bin/bash
-input="/home/ethan/Movies.txt"
+input="Movies.txt"
 while IFS= read -r line
-do
+do	
 	mkdir "$line"
 	done < "$input"
