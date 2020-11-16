@@ -179,6 +179,7 @@ get-iplayer --get https://www.bbc.co.uk/iplayer/episode/b0bs748h/doctor-who-seri
 get-iplayer --get https://www.bbc.co.uk/iplayer/episode/b0bsrh4l/doctor-who-series-11-7-kerblam --output  Doctor_Who/Season_11  --file-prefix="S<00seriesnum>E<00episodenum>-<episodeshort>" --force
 get-iplayer --get https://www.bbc.co.uk/iplayer/episode/b0bthzjn/doctor-who-series-11-8-the-witchfinders --output  Doctor_Who/Season_11  --file-prefix="S<00seriesnum>E<00episodenum>-<episodeshort>" --force
 get-iplayer --get https://www.bbc.co.uk/iplayer/episode/b0bv1l0j/doctor-who-series-11-9-it-takes-you-away --output  Doctor_Who/Season_11  --file-prefix="S<00seriesnum>E<00episodenum>-<episodeshort>" --force
+get-iplayer --get https://www.bbc.co.uk/iplayer/episode/b0bvgbqw/doctor-who-series-11-10-the-battle-of-ranskoor-av-kolos --output  Doctor_Who/Season_11  --file-prefix="S<00seriesnum>E<00episodenum>-<episodeshort>" --force
 get-iplayer --get https://www.bbc.co.uk/iplayer/episode/b0bx2rj3/doctor-who-resolution --output  Doctor_Who/Season_11  --file-prefix="S<00seriesnum>E<00episodenum>-<episodeshort>" --force
 
 get-iplayer --get https://www.bbc.co.uk/iplayer/episode/m000cs1y/doctor-who-series-12-1-spyfall-part-1 --output  Doctor_Who/Season_12  --file-prefix="S<00seriesnum>E<00episodenum>-<episodeshort>" --force
